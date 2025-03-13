@@ -41,6 +41,7 @@ nome="Bih Ramos"
 nome=10//converte o tipo automaticamente//
 
 console.log(nome)
+
 const curso="Javascirpt"//correto//
 
 curso="alooo"
